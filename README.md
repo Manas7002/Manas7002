@@ -23,34 +23,8 @@
     <!-- Right Column: Animated Dog Widget Column -->
     <td width="45%" valign="middle" align="center">
       <div style="background: #0d1117; padding: 15px; border: 1px solid #30363d; border-radius: 10px; width: 280px; display: inline-block;">
-        <!-- Embedded Animated SVG Widget -->
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="100%" height="100">
-          <style>
-            .dog-text {
-              font-family: monospace;
-              font-size: 14px;
-              fill: #39FF14;
-              white-space: pre;
-            }
-            @keyframes runRightLeft {
-              0% { transform: translateX(-20px); }
-              50% { transform: translateX(180px); }
-              100% { transform: translateX(-20px); }
-            }
-            .running-dog {
-              animation: runRightLeft 5s ease-in-out infinite;
-            }
-          </style>
-          <!-- Animated Dog Group -->
-          <g class="running-dog">
-            <text x="0" y="25" class="dog-text">o__o</text>
-            <text x="0" y="42" class="dog-text">(o.o)</text>
-            <text x="0" y="59" class="dog-text">(ii)---ii</text>
-            <text x="0" y="76" class="dog-text">ii   ii</text>
-          </g>
-          <!-- Ground Track Line -->
-          <line x1="0" y1="85" x2="300" y2="85" stroke="#30363d" stroke-dasharray="4,4" stroke-width="2" />
-        </svg>
+        <!-- Clean Reference to External Asset File -->
+        <img src="./dog.svg" alt="Moving Dog Animation" width="100%">
       </div>
     </td>
   </tr>
