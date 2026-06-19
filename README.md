@@ -1,3 +1,4 @@
+<!-- Header Section -->
 <div align="center">
   <h1>Hey, it's Manas! 👋</h1>
   <p align="center">
@@ -5,38 +6,51 @@
   </p>
 </div>
 
-<div align="center">
-  <div style="font-family: monospace; white-space: pre; line-height: 1.2; font-size: 8px; color: #8a8a8a; background: #0d1117; padding: 15px; border-radius: 10px; display: inline-block; width: 320px; text-align: left;">
-   🦖  💨 🏃‍♂️💨💨
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████&nbsp;&nbsp;&nbsp;&nbsp;██████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████&nbsp;&nbsp;&nbsp;&nbsp;████
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████
-    █████████████████████████████████████████
-  </div>
-</div>
+<!-- Main Profile Grid Layout -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: About Me Content -->
+    <td width="55%" valign="top">
+      <h3>💫 About Me:</h3>
+      <p>💬 <b>Status:</b> Student | B.Tech CSE (AIML) | Full Stack & AI Developer | Building at the intersection of AI & software | Seeking Internships</p>
+      <p>🔭 <b>Skills:</b> Python, C, C++, Matlab, Arduino IDE, Rlab.</p>
+      <p>🤝 <b>Connection:</b> I’m looking for real guidance and to connect with more people</p>
+      <p>🌱 <b>Learning:</b> I’m currently learning web development (end-to-end strategy)</p>
+      <p>⚡ <b>Drive:</b> Quick learner, and if I get to like the thing that I'm working on, believe me, I can live without drinking water (stick to it) till the end of it.</p>
+    </td>
+    <!-- Right Column: Clean ASCII Dino Box -->
+    <td width="45%" valign="middle" align="center">
+      <div style="font-family: monospace; white-space: pre; line-height: 1.3; font-size: 8px; color: #8a8a8a; background: #0d1117; padding: 15px; border: 1px solid #30363d; border-radius: 10px; display: inline-block; text-align: left;">
+ 🦖  💨 🏃‍♂️💨💨
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████
+      &nbsp;████&nbsp;&nbsp;&nbsp;&nbsp;██████████
+     ██████████████████████
+     ██████████████████████
+     ██████████████████████
+     ██████████████████████
+       ██████████████████
+         ██████████████
+           ████&nbsp;&nbsp;&nbsp;&nbsp;████
+           ██&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████
+██████████████████████████████
+      </div>
+    </td>
+  </tr>
+</table>
 
----
-
-# 💫 About Me:
-💬 **Status:** Student | B.Tech CSE (AIML) | Full Stack & AI Developer | Building at the intersection of AI & software | Seeking Internships<br>
-🔭 **Skills:** Python, C, C++, Matlab, Arduino IDE, Rlab.<br>
-🤝 **Connection:** I’m looking for real guidance and connect with more people <br>
-🌱 **Learning:** I’m currently learning web development (end-to-end strategy)<br>
-⚡ **Drive:** Quick learner, and if I get to like the thing that I'm working on, believe me, I can live without drinking water (stick to it) till the end of it. 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manas%20Sriram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivamanassriram@gmail.com) 
+### 🌐 Socials:
+<p>
+  <a href="https://linkedin.com/in/Manas%20Sriram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="mailto:sivamanassriram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
