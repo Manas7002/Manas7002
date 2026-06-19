@@ -20,15 +20,7 @@
       <p>🌱 <b>Learning:</b> I’m currently learning web development (end-to-end strategy)</p>
       <p>⚡ <b>Drive:</b> Quick learner, and if I get to like the thing that I'm working on, believe me, I can live without drinking water (stick to it) till the end of it.</p>
     </td>
-    <!-- Right Column: Animated Dog Widget Column -->
-    <td width="45%" valign="middle" align="center">
-      <div style="background: #0d1117; padding: 15px; border: 1px solid #30363d; border-radius: 10px; width: 280px; display: inline-block;">
-        <!-- Clean Reference to External Asset File -->
-        <img src="./dog.svg" alt="Moving Dog Animation" width="100%">
-      </div>
-    </td>
-  </tr>
-</table>
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manas%20Sriram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivamanassriram@gmail.com) 
