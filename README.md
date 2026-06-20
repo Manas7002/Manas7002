@@ -6,13 +6,8 @@
   </p>
 </div>
 
----                                                
-              
-                                                               __                                                   
-                                                              // \
-                                                              \\_/ //                        
-                             buzzzzzzzzzz.._..-.._.-''-.._.. -(||)(')                 (-(-_(-_-)_-)-)
-                                                              '''                  
+---                                                                                                  
+                                        (-(-_(-_-)_-)-)              
 <!-- Main Profile Grid -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
